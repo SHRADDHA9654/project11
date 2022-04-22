@@ -1,0 +1,62 @@
+
+
+body{
+    background-color: black;
+    color: white;
+}
+
+.img12{
+    height: 35%;
+    width: 30%;
+}
+
+.img13{
+    height: 35%;
+    width: 30%;
+}
+
+.img14{
+    height: 40%;
+    width: 35%;
+
+}
+
+.img15{
+    height: 40%;
+    width: 35%;
+
+}
+.img16{
+height: 32%;
+    width: 27%;
+}
+
+.img17{
+    height: 40%;
+    width: 35%;
+}
+
+.img{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom:50px ;
+}
+.img2{
+display: flex;
+justify-content: space-around;
+}
+
+.head img{
+    width: 93rem;
+    height: 40rem;
+    display: block;
+    margin: auto;
+}
+
+.img12:hover{
+transform: rotate(360deg);
+}
+
+
+
+
